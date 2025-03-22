@@ -1,0 +1,21 @@
+#Día 2: 30 días de programación en Python
+nombre = "Arturo"
+apellido = "Nieves"
+nombre_completo = nombre + " " + apellido
+pais = "México"
+ciudad = "Querétaro"
+edad = 33
+año = 2025
+is_married = True
+is_true = True
+is_light_on = False
+longitud_nombre = len(nombre)
+num_one = 5
+num_two = 4
+total = num_one + num_two
+diff = num_one - num_two
+producto = num_one * num_two
+division = num_one / num_two
+resto = num_one % num_two
+exp = num_one ** num_two
+floor_division = num_one // num_two
